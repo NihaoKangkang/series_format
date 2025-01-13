@@ -1,9 +1,9 @@
 # Series Format Script
 ## Author: Kyi Wong (github.com/NihaoKangkang)
 ---
-Rename TV series episodes to S00E00 format
-This script will rename all the files in the folder to S00E00 format
-For example, "The.Big.Bang.Theory.S01E01.mp4" will be renamed to "S01E01.mp4"
+Rename TV series episodes to S00E00 format.
+This script will rename all the files in the folder to S00E00 format.
+For example, "The.Big.Bang.Theory.S01E01.mp4" will be renamed to "S01E01.mp4".
 
 ---
 ### Usage: 
