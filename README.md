@@ -11,6 +11,8 @@ For example, "The.Big.Bang.Theory.S01E01.mp4" will be renamed to "S01E01.mp4".
 ### Usage: 
 `python series_format.py /path/to/folder`
 
+![Usage Example](./images/usage.gif)
+
 ---
 ### Trick: 
 
