@@ -1,6 +1,6 @@
 #! /usr/bin/env python3
 # Rename TV series episodes to S00E00 format
-# Usage: python series_format.py /path/to/folder
+# Usage: python3 series_format.py /path/to/folder
 # Trick: 
 # 1. Move the script to the folder containing the video files
 # 2. Run the script using the command above ( command: python3 series_format.py . )
@@ -43,7 +43,7 @@ def rename_videos(folder_path):
 # Check if the folder path is provided as an argument
 if len(sys.argv) < 2:
     print("Error: Please enter the folder path as the first parameter.")
-    print("Usage: python script.py /path/to/folder")
+    print("Usage: python3 script.py /path/to/folder")
 else:
     folder_path = sys.argv[1]
     
